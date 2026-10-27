@@ -1,8 +1,7 @@
 # FormUp - Deadlift Form MVP
 
 Este projeto é o MVP do FormUp, orientado à análise do levantamento terra
-(deadlift). Ele reutiliza o pipeline de pose do DetectorLift, mas reduz o
-escopo do produto para uma única atividade:
+(deadlift).
 
 ```text
 vídeo/webcam -> MediaPipe Pose -> 21 características -> GRU -> deadlift
