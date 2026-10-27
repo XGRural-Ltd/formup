@@ -1,0 +1,7 @@
+organized_dataset/
+.env
+dataset/
+.venv/
+.pytest_cache/
+__pycache__/
+*.py[cod]
